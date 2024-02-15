@@ -1,0 +1,52 @@
+[
+    {
+        "taskName": "todo-list app",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "priority": "low",
+        "deadline": "2024-02-13T15:35:40.466+00:00",
+        "taskReminder": "true",
+        "taskVisibility": "private",
+        "taskRecurring": "deaily",
+        "taskStatus": "new"
+    },
+    {
+        "taskName": "task2",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "priority": "high",
+        "deadline": "2024-02-13T15:35:40.466+00:00",
+        "taskReminder": "true",
+        "taskVisibility": "public",
+        "taskRecurring": "deaily",
+        "taskStatus": "cancelled"
+    },
+    {
+        "taskName": "task3",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "priority": "high",
+        "deadline": "2024-02-13T15:35:40.466+00:00",
+        "taskReminder": "true",
+        "taskVisibility": "public",
+        "taskRecurring": "weekly",
+        "taskStatus": "complete"
+    },
+    {
+        "taskName": "task4",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "priority": "high",
+        "deadline": "2024-02-13T15:35:40.466+00:00",
+        "taskReminder": "true",
+        "taskVisibility": "public",
+        "taskRecurring": "weekly",
+        "taskStatus": "in-progress"
+    },
+    {
+        "taskName": "task5",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "priority": "high",
+        "deadline": "2024-02-13T15:35:40.466+00:00",
+        "taskReminder": "true",
+        "taskVisibility": "public",
+        "taskRecurring": "weekly",
+        "taskStatus": "new"
+    }
+]
