@@ -1,8 +1,11 @@
-# React + Vite
+# Todo-list app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project maded for manage task
 
-Currently, two official plugins are available:
+in project root has src folder. it containe pages, components, utils, router folder. Pages folder containe every page of the project. Components folder containe so many reuseable usefull components. Router folder handle application routing system.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- user insert new task base some some point like priority level, duration and task type like deaily, weekly, monthly or yearly.
+- user set remainder of specific task.
+- when start a task, the task status will be in-progress.
+- user can manage her task and view separately complete, canceled and in-progress task
+- login/registration page is included. use will be registered. and he must be login for manage her todo-list or task
